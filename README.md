@@ -21,6 +21,7 @@ Parts that were used:
 
 ### **Assembly**
 To assemble the controller, I had to use a glue gun to keep the key switches in place, so when I solder and put on the keycaps, they won't fall out. Other than that, the rest is very simple and it is a matter of just soldering all the pins to the Arduino in the correct order. 
+
 <img src="https://user-images.githubusercontent.com/67884995/209010251-299becfc-a177-4252-89fb-69118dcc3332.JPG" width=50% height=50%>
 <img src="https://user-images.githubusercontent.com/67884995/209010268-9bb19102-c0b7-449e-a7d3-1e7b8c0740ab.JPG" width=50% height=50%>
 
